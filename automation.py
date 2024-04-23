@@ -19,6 +19,9 @@ edge_browser.get("www.google.com")
 
 print("hello world")
 
+# this still doesn't work, need to trouble shoot drivers and get the rigth versions
+
+
 
 
 
