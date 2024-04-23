@@ -21,6 +21,8 @@ print("hello world")
 
 # this still doesn't work, need to trouble shoot drivers and get the rigth versions
 
+# no changes to commit for today
+
 
 
 
