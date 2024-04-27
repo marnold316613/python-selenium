@@ -29,6 +29,8 @@ print("hello world")
 
 # no change again :)
 
+# learning sql
+
 
 
 
