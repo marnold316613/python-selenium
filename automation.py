@@ -33,6 +33,8 @@ print("hello world")
 
 # learning more sql
 
+# sql
+
 
 
 
